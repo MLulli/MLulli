@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lulli
 - 👀 I’m interested in IoT, easy automation for office actions, hardware hacks and gardening
-- 🌱 I’m currently learning pyhton and c. Also what is growing in my garden
+- 🌱 I’m currently learning pyhton and c#. Also what is growing in my garden
 - 💞️ I’m looking to collaborate on with people out of germany
-- 📫 How to reach me mail
+- 📫 How to reach me? Via mail.
 
 <!---
 MLulli/Lulli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
